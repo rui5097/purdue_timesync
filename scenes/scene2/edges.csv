@@ -1,0 +1,8 @@
+﻿StartNode,EndNote,transBandWidth,propagationDistance,dash
+C0,R1,1024,0.1,0
+R1,D1,10240,2,0
+D1,S1,62.5,7921,1
+S1,S2,62.5,50000,1
+S2,D2,62.5,7921,1
+D2,R2,10240,2,0
+R2,C1,50,0.1,0

@@ -1,0 +1,9 @@
+﻿Name,ShowName,Type,Surface,x,y
+C0,C0,1,clock.png,-130,0
+R1,R1,0,main_router.png,-70,0
+D1,Dish1,0,dish_left.png,-10,0
+S1,Satellite1,0,satellite.png,-60,-50
+S2,Satellite2,0,satellite.png,60,-50
+D2,Dish2,0,dish_right.png,10,0
+R2,R2,0,wifi_router.png,70,0
+C1,C1,1,clock.png,130,0

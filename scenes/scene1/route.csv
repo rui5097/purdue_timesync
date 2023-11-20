@@ -1,0 +1,5 @@
+﻿StartNode,EndNode,propagationSpeed,propagationLoss
+C0,R1,0.1,0.01
+R1,R2,2,0.01
+R2,R3,8,0.15
+R3,C1,0.1,0.5

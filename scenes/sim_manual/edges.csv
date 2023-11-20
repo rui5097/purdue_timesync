@@ -1,0 +1,6 @@
+﻿start_node_name,end_node_name,trans_bandwidth,prop_distance,propagation_speed,loss_up,loss_down
+C0,R1,1024,0.1,0.1,0.01,0.01
+R1,R2,10240,2,2,0.01,0.01
+R2,R3,10240,9,8,0.15,0.15
+R3,C1,11,0.1,0.1,0.5,0.5
+R3,C2,11,0.1,0.1,0.4,0.4

@@ -1,0 +1,16 @@
+﻿id,name,show_name,type,surface
+1,C0,C0,Clock,clock.png
+2,C1,C1,Clock,clock.png
+3,C2,C2,Clock,clock.png
+4,C3,C3,Clock,clock.png
+5,R0,R0,WifiRouter,wifi_router.png
+6,R1,R1,WifiRouter,wifi_router.png
+7,R2,R2,WifiRouter,wifi_router.png
+8,R3,R3,WifiRouter,wifi_router.png
+9,R4,R4,MainRouter,main_router.png
+10,R5,R5,MainRouter,main_router.png
+11,R6,R6,MainRouter,main_router.png
+12,R7,R7,MainRouter,main_router.png
+13,R8,R8,MainRouter,main_router.png
+14,R9,R9,MainRouter,main_router.png
+15,R10,R10,MainRouter,main_router.png

@@ -1,0 +1,7 @@
+﻿Name,ShowName,Type,Surface,x,y
+C0,C0(Gyte Lab),1,clock.png,0,0
+C1,clock1(CLO),1,clock.png,200,-35
+C2,clock2(CLO),1,clock.png,200,35
+R1,R1(GYTE),0,main_router.png,50,0
+R2,R2(GYTE-CLO),0,main_router.png,100,0
+R3,WIFI(CLO),0,wifi_router.png,150,0
