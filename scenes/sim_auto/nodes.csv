@@ -1,8 +1,8 @@
 ﻿id,name,show_name,type,surface
-1,C0,C0,Clock,clock.png
-2,C1,C1,Clock,clock.png
-3,C2,C2,Clock,clock.png
-4,C3,C3,Clock,clock.png
+1,C0,Clock0,Clock,clock.png
+2,C1,Clock1,Clock,clock.png
+3,C2,Clock2,Clock,clock.png
+4,C3,Clock3,Clock,clock.png
 5,R0,R0,WifiRouter,wifi_router.png
 6,R1,R1,WifiRouter,wifi_router.png
 7,R2,R2,WifiRouter,wifi_router.png

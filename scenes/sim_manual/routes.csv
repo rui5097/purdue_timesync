@@ -1,5 +1,7 @@
 ﻿start_node_name,end_node_name
 C0,R1
 R1,R2
-R2,R3
-R3,C1
+R2,R4
+R4,R6
+R6,R7
+R7,C2
