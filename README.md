@@ -1,4 +1,4 @@
-# Purdue Northwest Time Clock Synchronization Simulator[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository?style=social)](https://github.com/rui5097/pnw_clock_sim)
+# Purdue Northwest Time Clock Sync Simulator
 
 
 ## Purpose
