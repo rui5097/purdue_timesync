@@ -139,3 +139,15 @@ After completing the above steps, execute the following command:
 3. **visualization**: Generates the optimal path between nodes within the graph after each simulation step.
    - Results are located at the path specified by: `output_visualization = output/visualization/`.
 
+## How to Cite 
+BibTeX entry:
+```
+@misc{dai2024ptimesync,
+    title={P-TimeSync: A Precise Time Synchronization Simulation with Network Propagation Delays},
+    author={Wei Dai and Rui Zhang and Jinwei Liu},
+    year={2024},
+    eprint={2401.01412},
+    archivePrefix={arXiv},
+    primaryClass={cs.DC}
+}
+```
