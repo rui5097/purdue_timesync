@@ -1,5 +1,8 @@
 # Purdue Northwest Time Clock Sync Simulator
 
+## Other Language
+
+- zh_CN [简体中文](./readme/README.zh_CN.md)
 
 ## Simulator Overview
 
@@ -16,7 +19,7 @@ This simulator encompasses the following functionalities:
 
 ## Installation Instructions
 
-1. Follow the instructions at [https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions](https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions) to install `graph-tool` and run it in your local Linux environment.
+1. Follow the instructions at [https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions](https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions) to install `graph-tool` and run show.ipynb it in your local Linux environment.
 
 2. For Google Colab:
 
