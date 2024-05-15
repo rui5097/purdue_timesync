@@ -3,6 +3,7 @@
 ## Video Guideness
 
 - [Guide for how to use P-TimeSync - YouTube](https://www.youtube.com/watch?v=hPGJymCEeGw)
+- [指导如何使用p-timesync - YouTube](https://youtu.be/ZrNSreLmnhg)
 
 ## Other Language
 
