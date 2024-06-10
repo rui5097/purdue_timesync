@@ -3,7 +3,7 @@
 ## 视频指导
 
 - [Guide for how to use P-TimeSync - YouTube](https://www.youtube.com/watch?v=hPGJymCEeGw)
-- [指导如何使用p-timesync - YouTube](https://youtu.be/ZrNSreLmnhg)
+- [指导如何使用p-timesync - YouTube](https://www.youtube.com/watch?v=2r6Ec_lYYrA)
 ## 模拟器概述
 
 该模拟器包括以下功能：
